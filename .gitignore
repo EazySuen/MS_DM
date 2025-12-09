@@ -1,0 +1,41 @@
+# 数据文件
+*.tar.gz
+**/data/
+**/dataset/
+*.pth
+**/raw/
+*-idx*-ubyte
+**/saved_train_models/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 操作系统
+.DS_Store
+Thumbs.db
+
+# 实验结果
+**/generated_images/
+**/analysis_results/
+**/step_difficulty_scan/
+**/toy_swiss_roll/
+**/toy_swiss_roll_final/
+**/toy_64d_swiss_roll/
