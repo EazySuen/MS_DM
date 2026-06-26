@@ -1,0 +1,8 @@
+{
+  "security": {
+    "auth": {
+      "selectedType": "llm-gateway"
+    }
+  },
+  "selectedAuthType": "openai-like-api"
+}
